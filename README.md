@@ -1,4 +1,4 @@
-# 💫 About Me:
+#💫:
 I just believe in myself
 
 
