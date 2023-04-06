@@ -1,5 +1,6 @@
 #💫:
 I just believe in myself
+Tôi không có khả năng biết hết mọi thứ nhưng tôi có khả năng tra google !
 
 
 ## 🌐 Socials:
