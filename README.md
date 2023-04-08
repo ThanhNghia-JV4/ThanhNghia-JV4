@@ -17,7 +17,7 @@ Tôi không có khả năng biết hết mọi thứ nhưng tôi có khả năng
 - I’m currently working on blockchain technology.
 
 ### Connect with me:
-[<img align="left" alt="Thanh Nghia | image" width="24px" src="https://www.flaticon.com/free-icon/facebook-logo_59439" />][Facebook]
+[<img align="left" alt="Thanh Nghia | image" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 <br/>
 
 <!-- [linkedin]: https://www.linkedin.com/in/vuvoth -->
