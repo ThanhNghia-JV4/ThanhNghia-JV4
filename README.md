@@ -13,12 +13,12 @@ Tôi không có khả năng biết hết mọi thứ nhưng tôi có khả năng
 
 - I’m currently working on blockchain technology.
 
-### Connect with me:
-[<img align="left" alt="Thanh Nghia | image" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+# Connect with me:
+[<img align="left" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 <br/>
-[<img align="left" alt="Thanh Nghia | image" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
+[<img align="right" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
 <br/>
 
-<!-- [linkedin]: https://www.linkedin.com/in/vuvoth -->
-[Facebook]: https://www.facebook.com/ThanhNghia14.9 | [Instagram]: https://www.instagram.com/thanh_nghiax_22
+[Facebook]: https://www.facebook.com/ThanhNghia14.9
+[Instagram]: https://www.instagram.com/thanh_nghiax_22
 
