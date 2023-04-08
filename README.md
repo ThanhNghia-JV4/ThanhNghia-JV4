@@ -1,8 +1,6 @@
-### Hi there, I'm Nguyen Thanh Nghia
-
-## I'm a software engineer.
-
-I’m Currently working on blockchain technology.
+# Hi there, I'm Nguyen Thanh Nghia
+<!-- 
+# I am Currently working on blockchain technology. -->
 
 # Connect with me:
 
