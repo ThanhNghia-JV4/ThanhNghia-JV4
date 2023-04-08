@@ -20,5 +20,5 @@ Tôi không có khả năng biết hết mọi thứ nhưng tôi có khả năng
 <br/>
 
 <!-- [linkedin]: https://www.linkedin.com/in/vuvoth -->
-[Facebook]: https://www.facebook.com/ThanhNghia14.9
-[Instagram]: https://www.instagram.com/thanh_nghiax_22
+[Facebook]: https://www.facebook.com/ThanhNghia14.9 | [Instagram]: https://www.instagram.com/thanh_nghiax_22
+
