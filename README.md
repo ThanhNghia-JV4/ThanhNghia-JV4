@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Nguyen Thanh Nghia
+# Hi there 👋, I'm Nguyen Thanh Nghia.
+I'm a Blockchain Developer on Viet Nam.
 <!-- 
 # I am Currently working on blockchain technology. -->
 
